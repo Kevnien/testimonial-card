@@ -4,7 +4,7 @@ const variables = {
   testimony:
     "I've been searching for high-quality abstract images for my design projects, and I'm thrilled to have found this platform. The variety and depth of creativity are astounding! I can only do so much with the time I have so focusing on the latest productivity technologies is crucial. Especially when creating long strings to test if the component can handle them. Private chefs videos are my secret pleasure.",
   name: "Sarah Dole",
-  thumbnailSrc: "/img/profile-thumbnail.png",
+  thumbnailSrc: "testimonial-card/img/profile-thumbnail.png",
   tagName: "sarahdole",
 };
 
